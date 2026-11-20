@@ -1,0 +1,260 @@
+[
+ {
+  "i": 0,
+  "s": 0,
+  "e": 2.588,
+  "line": "In this town, everybody parties every night."
+ },
+ {
+  "i": 1,
+  "s": 2.588,
+  "e": 3.2,
+  "line": "Except me."
+ },
+ {
+  "i": 2,
+  "s": 3.2,
+  "e": 3.812,
+  "line": "HUSS! HUSS!"
+ },
+ {
+  "i": 3,
+  "s": 3.812,
+  "e": 4.572,
+  "line": "Pool parties."
+ },
+ {
+  "i": 4,
+  "s": 4.572,
+  "e": 5.382,
+  "line": "Pizza parties."
+ },
+ {
+  "i": 5,
+  "s": 5.382,
+  "e": 7.87,
+  "line": "A birthday party for the mayor's goldfish."
+ },
+ {
+  "i": 6,
+  "s": 7.87,
+  "e": 10.259,
+  "line": "My best friend Toby danced till sunrise."
+ },
+ {
+  "i": 7,
+  "s": 10.259,
+  "e": 12.343,
+  "line": "Neighbor Linda ran the snack table."
+ },
+ {
+  "i": 8,
+  "s": 12.343,
+  "e": 14.13,
+  "line": "Even my grandma did the worm."
+ },
+ {
+  "i": 9,
+  "s": 14.13,
+  "e": 14.85,
+  "line": "But not me."
+ },
+ {
+  "i": 10,
+  "s": 14.85,
+  "e": 15.877,
+  "line": "Day by day, HUSS!"
+ },
+ {
+  "i": 11,
+  "s": 15.877,
+  "e": 16.588,
+  "line": "Sunset, HUSS!"
+ },
+ {
+  "i": 12,
+  "s": 16.588,
+  "e": 17.398,
+  "line": "Midnight, HUSS!"
+ },
+ {
+  "i": 13,
+  "s": 17.398,
+  "e": 19.797,
+  "line": "Then came the biggest game of the year."
+ },
+ {
+  "i": 14,
+  "s": 19.797,
+  "e": 21.841,
+  "line": "The town showed up in party hats."
+ },
+ {
+  "i": 15,
+  "s": 21.841,
+  "e": 22.848,
+  "line": "Everybody laughed."
+ },
+ {
+  "i": 16,
+  "s": 22.848,
+  "e": 24.586,
+  "line": "Who's the guy in the beanie?"
+ },
+ {
+  "i": 17,
+  "s": 24.586,
+  "e": 25.563,
+  "line": "I got the ball."
+ },
+ {
+  "i": 18,
+  "s": 25.563,
+  "e": 27.034,
+  "line": "HUSS! Crossover, spin, HUSS!"
+ },
+ {
+  "i": 19,
+  "s": 27.034,
+  "e": 27.696,
+  "line": "Ten points."
+ },
+ {
+  "i": 20,
+  "s": 27.696,
+  "e": 28.101,
+  "line": "Thirty."
+ },
+ {
+  "i": 21,
+  "s": 28.101,
+  "e": 28.861,
+  "line": "Fifty points."
+ },
+ {
+  "i": 22,
+  "s": 28.861,
+  "e": 29.73,
+  "line": "All by myself."
+ },
+ {
+  "i": 23,
+  "s": 29.73,
+  "e": 30.796,
+  "line": "The music stopped."
+ },
+ {
+  "i": 24,
+  "s": 30.796,
+  "e": 32.119,
+  "line": "The crowd went silent. //"
+ },
+ {
+  "i": 25,
+  "s": 32.119,
+  "e": 34.262,
+  "line": "Derek asked, when'd you get so good?"
+ },
+ {
+  "i": 26,
+  "s": 34.262,
+  "e": 36.76,
+  "line": "I told him: while you partied, I practiced."
+ },
+ {
+  "i": 27,
+  "s": 36.76,
+  "e": 38.843,
+  "line": "The next night, something was wrong."
+ },
+ {
+  "i": 28,
+  "s": 38.843,
+  "e": 39.762,
+  "line": "The pool, empty."
+ },
+ {
+  "i": 29,
+  "s": 39.762,
+  "e": 40.778,
+  "line": "The chairs, empty."
+ },
+ {
+  "i": 30,
+  "s": 40.778,
+  "e": 42.151,
+  "line": "Then, from every window,"
+ },
+ {
+  "i": 31,
+  "s": 42.151,
+  "e": 42.457,
+  "line": "HUSS! ///"
+ },
+ {
+  "i": 32,
+  "s": 42.457,
+  "e": 43.573,
+  "line": "Toby was dribbling."
+ },
+ {
+  "i": 33,
+  "s": 43.573,
+  "e": 44.945,
+  "line": "Linda was doing karate."
+ },
+ {
+  "i": 34,
+  "s": 44.945,
+  "e": 46.515,
+  "line": "Grandma was doing push-ups."
+ },
+ {
+  "i": 35,
+  "s": 46.515,
+  "e": 47.828,
+  "line": "Nobody parties anymore."
+ },
+ {
+  "i": 36,
+  "s": 47.828,
+  "e": 49.457,
+  "line": "The whole town is hustling."
+ },
+ {
+  "i": 37,
+  "s": 49.457,
+  "e": 50.376,
+  "line": "Which is great..."
+ },
+ {
+  "i": 38,
+  "s": 50.376,
+  "e": 53.081,
+  "line": "except now I'm the only one free on Fridays."
+ },
+ {
+  "i": 39,
+  "s": 53.081,
+  "e": 54.315,
+  "line": "So I threw a party."
+ },
+ {
+  "i": 40,
+  "s": 54.315,
+  "e": 56.705,
+  "line": "The only guest was the mayor's goldfish."
+ },
+ {
+  "i": 41,
+  "s": 56.705,
+  "e": 58.432,
+  "line": "He's actually a great dancer."
+ },
+ {
+  "i": 42,
+  "s": 58.432,
+  "e": 59.189,
+  "line": "HUSS!"
+ }
+]
