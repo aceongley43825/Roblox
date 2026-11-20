@@ -221,9 +221,9 @@ start(() => {
     cam: frame(4, 3, { size: 'close', side: -12, dist: 1.25 }),
     act(lt, c) { CS.tyler.reset().place(4, 3, -0.2).pose({ aR: [40, 10] }).setFace(lt < c.w('ball') ? 'serious' : 'smirk').idle(c.t); dribble(CS.tyler, CS.ball, c.t); CS.tag[0].show(CS.tyler, 512); } });
   // 28 action: handheld follow, whip to the hoop, ball in
-  shot({ line: 'HUSS!', set: courtS, sfx: [['whoosh', 0.3], ['sparkle', 0.75, 0.7], ['thud', 0, 0.5]],
-    cam: (lt, s) => lt < 0.42 ? handheld(follow(l => [6 + l * 12, 0, 2], [-2, 3.2, 11]), 1.4)(lt, s) : whip([18, 6, 11], [13, 4, 2], [29, 9.9, 0], 0.42, { dur: 0.22 })(lt),
-    act(lt, c) { const x = 6 + Math.min(lt, 0.42) * 12; CS.tyler.reset().place(x, 2, Math.PI / 2 - 0.3).run(c.t).setFace('joy'); CS.tag[0].show(CS.tyler, 512); if (lt < 0.42) dribble(CS.tyler, CS.ball, c.t); else arc(CS.ball, lt, 0.42, 0.4, [x + 1, 6, 2], [29, 9.9, 0], 4); courtS.scoreboard.set('GUEST', 38, 'HOME', 48, '0:02'); } });
+  shot({ line: 'HUSS!', set: courtS, sfx: [['whoosh', 0.2], ['sparkle', 0.45, 0.7], ['thud', 0, 0.5]],
+    cam: (lt, s) => lt < s.d * 0.42 ? handheld(follow(l => [6 + l * 24, 0, 2], [-2, 3.2, 11]), 1.4)(lt, s) : whip([18, 6, 11], [13, 4, 2], [29, 9.9, 0], s.d * 0.42, { dur: s.d * 0.3 })(lt),
+    act(lt, c) { const tw = c.d * 0.42, x = 6 + Math.min(lt, tw) * 24; CS.tyler.reset().place(x, 2, Math.PI / 2 - 0.3).run(c.t).setFace('joy'); CS.tag[0].show(CS.tyler, 512); if (lt < tw) dribble(CS.tyler, CS.ball, c.t); else arc(CS.ball, lt, tw, c.d * 0.52, [x + 1, 6, 2], [29, 9.9, 0], 4); courtS.scoreboard.set('GUEST', 38, 'HOME', 48, '0:02'); } });
   // 29 scoreboard insert: fifty points
   shot({ line: 'Fifty points.', set: courtS, sfx: [['ding', 'points']],
     cam: { pos: [17, 14.4, -0.5], look: [29, 14.6, -1.6], fov: 40, blur: 0.15, push: 0.12 },
