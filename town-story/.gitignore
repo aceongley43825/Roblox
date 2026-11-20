@@ -1,0 +1,7 @@
+node_modules/
+snaps/
+snaps2/
+frames/
+audio/
+*.log
+sheet2.jpg
