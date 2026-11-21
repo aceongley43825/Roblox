@@ -1,6 +1,6 @@
 // story.js: "In this town, everybody tapes their closet shut every night. Except me." (60 s, town-story-shorts style)
 // One shot() per picture. `line` = words spoken in that shot (cuts land on its first word).
-// '//' after a word = 0.6 s silent hold. ALL-CAPS words show in caps (HUSS!).
+// '//' after a word = 0.6 s silent hold. ALL-CAPS words would show in caps.
 import * as THREE from 'three';
 import { start, shot, frame } from './core.js';
 import { makeAvatar } from './avatar.js';
@@ -114,10 +114,6 @@ start(() => {
   shot({ line: 'Except me.', set: street, sfx: [['pop', 'me', 0.6]],
     cam: frame(8, 3.6, { size: 'close', side: -12 }),
     act(lt, c) { S.me.reset().place(8, 3.6, -0.15).setFace(lt < c.w('me') ? 'calm' : 'winkjoy').idle(c.t); } });
-  // 4 catchphrase beat: low hero angle, empty night court
-  shot({ line: 'HUSS! HUSS!', set: courtN, sfx: [['thud', 0.05, 0.6], ['thud', 0.47, 0.6], ['thud', 0.89, 0.6]],
-    cam: frame(0, 2, { size: 'full', side: 14, low: 0.45 }),
-    act(lt, c) { score(courtN, 0, 0); N.me.reset().place(0, 2, -0.3).setFace('joy').idle(c.t); dribble(N.me, N.ball, c.t); } });
   // 5-7 the list: closets / fridges / the mayor's goldfish (planted)
   shot({ line: 'Closets taped.', set: dexRoom,
     cam: { pos: [-4.5, 6.5, 10], look: [-7.6, 4, -3], fov: 58, blur: 0.25 },
@@ -152,19 +148,13 @@ start(() => {
   shot({ line: 'My ball lives in there.', set: myRoom,
     cam: frame(-1.6, -3, { size: 'wide', side: 10, dist: 0.7 }),
     act(lt, c) { myCl.state(E.out(remap(lt, 0, 0.35)), 0); myBall.visible = true; M.me.reset().place(0.9, -2.0, -0.5).pose('point').lookAt(-2.5, -6).setFace('joy').idle(c.t); M.me.armR.rotation.z -= 0.5; } });
-  // 15-18 montage: day / sunset / night, same court, HUSS
-  shot({ line: 'Day by day,', set: courtD,
+  // 15-18 montage: day / sunset / night, same court, dribbling
+  shot({ line: 'Day by day,', set: courtD, sfx: [['thud', 0.1, 0.5], ['thud', 0.52, 0.5]],
     cam: frame(-4, 3, { size: 'full', side: 18, low: 0.3 }),
     act(lt, c) { score(courtD, 0, 0); D.me.reset().place(-4, 3, 0.3).setFace('calm').idle(c.t); dribble(D.me, D.ball, c.t); } });
-  shot({ line: 'HUSS!', set: courtS, sfx: [['thud', 0.05, 0.6], ['thud', 0.47, 0.6]],
-    cam: frame(-4, 3, { size: 'full', side: 18, low: 0.3 }),
-    act(lt, c) { score(courtS, 0, 0); SS.me.reset().place(-4, 3, 0.3).setFace('joy').idle(c.t); dribble(SS.me, SS.ball, c.t); } });
-  shot({ line: 'night by night,', set: courtN,
+  shot({ line: 'night by night,', set: courtN, sfx: [['thud', 0.1, 0.5], ['thud', 0.52, 0.5]],
     cam: frame(-4, 3, { size: 'full', side: 18, low: 0.3 }),
     act(lt, c) { score(courtN, 0, 0); N.me.reset().place(-4, 3, 0.3).setFace('calm').idle(c.t); dribble(N.me, N.ball, c.t); } });
-  shot({ line: 'HUSS!', set: courtN, sfx: [['thud', 0.05, 0.6], ['thud', 0.47, 0.6]],
-    cam: frame(-4, 3, { size: 'close', side: -12 }),
-    act(lt, c) { score(courtN, 0, 0); N.me.reset().place(-4, 3, 0.1).setFace('joy').idle(c.t).talk(c.t); dribble(N.me, N.ball, c.t); } });
   // 19 the big event: drone over the sunset court
   shot({ line: 'Then came the big game.', set: courtS, sfx: [['whoosh', 0, 0.5]],
     cam: drone([0, 2, -8], { h: 30, back: 48, drift: [-10, -4, -8] }),
@@ -179,10 +169,10 @@ start(() => {
     cam: frame(6, 4, { size: 'close', side: 16 }),
     act(lt, c) { score(courtS, 0, 0); SS.rival.reset().place(6, 4, -0.2).pose('point').setFace('smug').talk(c.t); SS.rival.armR.rotation.z += 0.3; } });
   // 23-27 triumph
-  shot({ line: 'I got the ball.', set: courtS,
+  shot({ line: 'I got', set: courtS,
     cam: frame(-2, 3, { size: 'close', side: -14 }),
-    act(lt, c) { score(courtS, 0, 0); SS.me.reset().place(-2, 3, 0.2).pose({ aR: [60, -14] }).setFace(lt < c.w('ball') ? 'calm' : 'smirk').idle(c.t); SS.ball.visible = true; SS.ball.position.set(-3.4, 2.3, 4.0); } });
-  shot({ line: 'HUSS! HUSS!', set: courtS, sfx: [['thud', 0.05, 0.6], ['thud', 0.47, 0.6], ['whoosh', 'huss', 0.8], ['ding', 'huss', 0.5]],
+    act(lt, c) { score(courtS, 0, 0); SS.me.reset().place(-2, 3, 0.2).pose({ aR: [60, -14] }).setFace(lt < c.d * 0.35 ? 'calm' : 'smirk').idle(c.t); SS.ball.visible = true; SS.ball.position.set(-3.4, 2.3, 4.0); } });
+  shot({ line: 'the ball. ///', set: courtS, sfx: [['thud', 0.15, 0.6], ['thud', 0.57, 0.6], ['whoosh', 0.85, 0.8], ['ding', 1.3, 0.5]],
     cam: (lt, s) => lt < s.d * 0.55 ? handheld(follow(l2 => [-6 + l2 * 10, 0, 2], [-3, 3.4, 12]), 1.4)(lt, s) : whip([18, 6, 11], [12, 4, 2], [29, 9.9, 0], s.d * 0.55)(lt),
     act(lt, c) { score(courtS, 12, lt < c.d * 0.9 ? 48 : 50); const x = -6 + Math.min(lt, c.d * 0.55) * 10; SS.me.reset().place(x, 2, Math.PI / 2 - 0.3).run(c.t).setFace('joy'); if (lt < c.d * 0.55) dribble(SS.me, SS.ball, c.t); else arc(SS.ball, lt, c.d * 0.55, 0.42, [x + 1, 6, 2], [29, 9.9, 0], 5); SS.rival.reset().place(x + 5, 5, -Math.PI / 2).run(c.t, 0.6).setFace('gasp'); } });
   shot({ line: 'Fifty points.', set: courtS, sfx: [['ding', 'fifty', 0.7]],
@@ -218,15 +208,12 @@ start(() => {
   shot({ line: 'Closets open. Tape in the trash.', set: dexRoom,
     cam: (lt, s) => lt < s.d * 0.42 ? { pos: [-1.4, 4.4, 6], look: [-2.5, 4.2, -5], fov: 54, blur: 0.3, push: 0.08 } : { pos: [3.2, 4.6, 2.6], look: [1.8, 1.8, -3.2], fov: 50, blur: 0.4, push: 0.1 },
     act(lt, c) { dexCl.state(1, 0); trash.visible = true; dexFloorTape.visible = true; } });
-  shot({ line: 'Then, from every window:', set: street,
+  shot({ line: 'Then, from every', set: street,
     cam: frame(4.5, 3.6, { size: 'medium', side: 10, low: 0.3 }),
-    act(lt, c) { S.me.reset().place(4.5, 3.6, 0).pose({ head: [-14, 0, 0] }).setFace('worried').idle(c.t); } });
-  shot({ line: 'HUSS!', set: street, sfx: [['thud', 0.05, 0.6], ['thud', 0.47, 0.6]],
+    act(lt, c) { S.me.reset().place(4.5, 3.6, 0).pose({ head: [-14, 0, 0] }).setFace(lt < c.w('every') ? 'worried' : 'gasp').idle(c.t); } });
+  shot({ line: 'window: ///', set: street, sfx: [['thud', 0.35, 0.7], ['thud', 0.6, 0.5], ['thud', 0.77, 0.7], ['thud', 1.02, 0.5], ['thud', 1.19, 0.7]],
     cam: { pos: [-2, 2.5, 14], look: [-2, 9, -7], fov: 60, blur: 0, push: 0.05 },
     act(lt, c) { } });
-  shot({ line: 'HUSS! //', set: street,
-    cam: frame(8, 3.6, { size: 'face', side: -8, push: 0.1 }),
-    act(lt, c) { S.me.reset().place(8, 3.6, 0).setFace('gasp').idle(c.t, lt < c.d - 0.8 ? 1 : 0.1); } });
   // 38-40 the three people now hustle
   shot({ line: 'Dex, dribbling.', set: dexRoom, sfx: [['thud', 0.1, 0.5], ['thud', 0.52, 0.5]],
     cam: frame(-1, 1, { size: 'full', side: 16, low: 0.3 }),
@@ -260,7 +247,4 @@ start(() => {
   shot({ line: "He's actually great at defense.", set: myRoom, sfx: [['thud', 0.1, 0.5], ['thud', 0.52, 0.5]],
     cam: frame(3, 3.4, { size: 'full', side: -24, low: 0.45 }),
     act(lt, c) { myCl.state(1, 0); myBowl.visible = true; myBowl.position.set(6.7, 0, 10.3); myBowl.fish.position.x = Math.sin(c.t * 5) * 0.55; myBowl.fish.rotation.y = 1.4; M.me.reset().place(3, 1.6, 0.4).setFace(lt < c.w('defense') ? 'smirk' : 'joy').idle(c.t); dribble(M.me, M.ball, c.t); } });
-  shot({ line: 'HUSS!', set: myRoom, sfx: [['thud', 0.05, 0.6], ['thud', 0.47, 0.6]],
-    cam: frame(1.5, 1.6, { size: 'wide', side: 8, low: 0.2, dist: 0.85 }),
-    act(lt, c) { myCl.state(1, 0); myBowl.visible = true; myBowl.position.set(6.7, 0, 10.3); myBowl.fish.position.x = Math.sin(c.t * 5) * 0.55; myBowl.fish.rotation.y = 1.4; M.me.reset().place(1.5, 1.6, 0.3).setFace('winkjoy').idle(c.t); dribble(M.me, M.ball, c.t); } });
 });
