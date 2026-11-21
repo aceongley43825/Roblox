@@ -1,0 +1,10 @@
+node_modules/
+frames/
+snaps/
+*.log
+audio/*.wav
+/sheet.jpg
+/fix.jpg
+/beats.jpg
+/final_sheet.jpg
+qa/
