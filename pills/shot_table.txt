@@ -1,60 +1,60 @@
-275 words, 59 shots, 90.66 s (3.03 words/s), 31 sound cues
-  0   0.00  2.61s  In this town, everyone who turns eighteen
-  1   2.61  1.55s  goes to the town square,
-  2   4.16  1.77s  and picks one of two pills.
-  3   5.94  2.46s  The gold pill makes you instantly rich.
-  4   8.39  2.40s  Nobody knows what the black pill does.
-  5  10.80  1.34s  Nobody ever picks it.
-  6  12.13  0.96s  Why would they?
-  7  13.10  2.67s  My best friend Theo picked gold last year.
-  8  15.77  1.56s  Now he owns a gold car,
-  9  17.34  1.93s  and his hamster has a mansion.
- 10  19.26  1.66s  This year, I turn eighteen.
- 11  20.92  1.49s  But there's one problem.
- 12  22.41  2.20s  My little sister Mia is very sick.
- 13  24.61  2.29s  Her medicine costs one million coins.
- 14  26.90  0.96s  We have twelve.
- 15  27.87  1.29s  My dad keeps saying,
- 16  29.15  1.23s  take the gold pill.
- 17  30.38  1.22s  It fixes everything.
- 18  31.61  0.59s  Get rich.
- 19  32.20  1.07s  Buy the medicine.
- 20  33.27  0.59s  Save Mia.
- 21  33.86  1.44s  Then came Choosing Day.
- 22  35.30  1.61s  The whole town showed up.
- 23  36.90  0.96s  First kid. Gold.
- 24  37.87  0.90s  Instantly rich.
- 25  38.77  0.91s  Next kid. Gold.
- 26  39.68  0.64s  Next. Gold.
- 27  40.32  1.35s  Then it was my turn.
- 28  41.67  1.82s  I reached for the gold pill.
- 29  43.49  1.03s  Then I saw him.
- 30  44.52  2.07s  Old Mister Pickles, the pharmacist.
- 31  46.59  2.25s  The only man who ever picked black.
- 32  48.84  1.18s  He shook his head. //
- 33  50.02  1.67s  So I took the black pill.
- 34  51.69  1.39s  The crowd went silent. ///
- 35  53.08  1.00s  Nothing happened.
- 36  54.09  1.34s  No money. No sparkles.
- 37  55.42  1.06s  Everybody laughed.
- 38  56.48  0.64s  Even Theo.
- 39  57.12  1.67s  My dad just stared at me.
- 40  58.79  1.61s  That night, Mia got worse.
- 41  60.40  1.08s  I held her hand.
- 42  61.48  1.76s  And my hand started glowing.
- 43  63.24  1.08s  Then Mia sat up.
- 44  64.31  1.34s  Her cheeks went pink.
- 45  65.65  1.28s  She said, I'm hungry. //
- 46  66.94  2.35s  The black pill doesn't make you rich.
- 47  69.29  1.45s  It makes you a healer.
- 48  70.74  1.98s  By morning, the whole town knew.
- 49  72.72  2.25s  There was a line outside our house.
- 50  74.97  1.61s  Rich people get sick too.
- 51  76.58  1.40s  And they pay in gold.
- 52  77.97  2.35s  Now we're the richest family in town.
- 53  80.33  0.96s  Which is great,
- 54  81.29  2.34s  except my first patient every morning
- 55  83.63  1.12s  is Theo's hamster.
- 56  84.75  1.35s  He has a cold. Again.
- 57  86.10  2.15s  And Dad? He still keeps saying it.
- 58  88.25  2.42s  The black pill fixes everything.
+275 words, 59 shots, 88.12 s (3.12 words/s), 31 sound cues
+  0   0.00  2.23s  In this town, everyone who turns eighteen
+  1   2.23  1.22s  goes to the town square,
+  2   3.45  1.63s  and picks one of two pills.
+  3   5.08  2.23s  The gold pill makes you instantly rich.
+  4   7.31  1.91s  Nobody knows what the black pill does.
+  5   9.22  1.04s  Nobody ever picks it.
+  6  10.26  0.79s  Why would they?
+  7  11.05  2.36s  My best friend Theo picked gold last year.
+  8  13.41  1.53s  Now he owns a gold car,
+  9  14.94  1.66s  and his hamster has a mansion.
+ 10  16.60  1.73s  This year, I turn eighteen.
+ 11  18.33  1.29s  But there's one problem.
+ 12  19.62  2.46s  My little sister Mia is very sick.
+ 13  22.08  2.47s  Her medicine costs one million coins.
+ 14  24.55  0.96s  We have twelve.
+ 15  25.51  1.17s  My dad keeps saying,
+ 16  26.68  1.51s  take the gold pill.
+ 17  28.19  1.34s  It fixes everything.
+ 18  29.53  0.72s  Get rich.
+ 19  30.25  0.90s  Buy the medicine.
+ 20  31.15  0.85s  Save Mia.
+ 21  32.00  1.40s  Then came Choosing Day.
+ 22  33.40  1.25s  The whole town showed up.
+ 23  34.65  1.40s  First kid. Gold.
+ 24  36.05  0.97s  Instantly rich.
+ 25  37.02  1.40s  Next kid. Gold.
+ 26  38.42  1.18s  Next. Gold.
+ 27  39.60  1.12s  Then it was my turn.
+ 28  40.72  1.61s  I reached for the gold pill.
+ 29  42.33  0.88s  Then I saw him.
+ 30  43.21  2.11s  Old Mister Pickles, the pharmacist.
+ 31  45.32  1.78s  The only man who ever picked black.
+ 32  47.10  1.51s  He shook his head. //
+ 33  48.61  1.42s  So I took the black pill.
+ 34  50.03  2.33s  The crowd went silent. ///
+ 35  52.36  0.89s  Nothing happened.
+ 36  53.25  1.69s  No money. No sparkles.
+ 37  54.94  0.95s  Everybody laughed.
+ 38  55.89  0.87s  Even Theo.
+ 39  56.76  1.38s  My dad just stared at me.
+ 40  58.14  1.76s  That night, Mia got worse.
+ 41  59.90  1.06s  I held her hand.
+ 42  60.96  1.69s  And my hand started glowing.
+ 43  62.65  1.11s  Then Mia sat up.
+ 44  63.76  1.27s  Her cheeks went pink.
+ 45  65.03  2.17s  She said, I'm hungry. //
+ 46  67.20  1.82s  The black pill doesn't make you rich.
+ 47  69.02  1.11s  It makes you a healer.
+ 48  70.13  1.67s  By morning, the whole town knew.
+ 49  71.80  1.68s  There was a line outside our house.
+ 50  73.48  1.40s  Rich people get sick too.
+ 51  74.88  1.28s  And they pay in gold.
+ 52  76.16  2.21s  Now we're the richest family in town.
+ 53  78.37  0.85s  Which is great,
+ 54  79.22  2.08s  except my first patient every morning
+ 55  81.30  1.22s  is Theo's hamster.
+ 56  82.52  1.53s  He has a cold. Again.
+ 57  84.05  1.76s  And Dad? He still keeps saying it.
+ 58  85.81  2.31s  The black pill fixes everything.

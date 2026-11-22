@@ -11,3 +11,5 @@ qa/
 /contact_sheet_v2.jpg
 dl/
 kit_src/
+qa/
+r*.log
