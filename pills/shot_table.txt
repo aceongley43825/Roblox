@@ -1,0 +1,60 @@
+275 words, 59 shots, 90.66 s (3.03 words/s), 31 sound cues
+  0   0.00  2.61s  In this town, everyone who turns eighteen
+  1   2.61  1.55s  goes to the town square,
+  2   4.16  1.77s  and picks one of two pills.
+  3   5.94  2.46s  The gold pill makes you instantly rich.
+  4   8.39  2.40s  Nobody knows what the black pill does.
+  5  10.80  1.34s  Nobody ever picks it.
+  6  12.13  0.96s  Why would they?
+  7  13.10  2.67s  My best friend Theo picked gold last year.
+  8  15.77  1.56s  Now he owns a gold car,
+  9  17.34  1.93s  and his hamster has a mansion.
+ 10  19.26  1.66s  This year, I turn eighteen.
+ 11  20.92  1.49s  But there's one problem.
+ 12  22.41  2.20s  My little sister Mia is very sick.
+ 13  24.61  2.29s  Her medicine costs one million coins.
+ 14  26.90  0.96s  We have twelve.
+ 15  27.87  1.29s  My dad keeps saying,
+ 16  29.15  1.23s  take the gold pill.
+ 17  30.38  1.22s  It fixes everything.
+ 18  31.61  0.59s  Get rich.
+ 19  32.20  1.07s  Buy the medicine.
+ 20  33.27  0.59s  Save Mia.
+ 21  33.86  1.44s  Then came Choosing Day.
+ 22  35.30  1.61s  The whole town showed up.
+ 23  36.90  0.96s  First kid. Gold.
+ 24  37.87  0.90s  Instantly rich.
+ 25  38.77  0.91s  Next kid. Gold.
+ 26  39.68  0.64s  Next. Gold.
+ 27  40.32  1.35s  Then it was my turn.
+ 28  41.67  1.82s  I reached for the gold pill.
+ 29  43.49  1.03s  Then I saw him.
+ 30  44.52  2.07s  Old Mister Pickles, the pharmacist.
+ 31  46.59  2.25s  The only man who ever picked black.
+ 32  48.84  1.18s  He shook his head. //
+ 33  50.02  1.67s  So I took the black pill.
+ 34  51.69  1.39s  The crowd went silent. ///
+ 35  53.08  1.00s  Nothing happened.
+ 36  54.09  1.34s  No money. No sparkles.
+ 37  55.42  1.06s  Everybody laughed.
+ 38  56.48  0.64s  Even Theo.
+ 39  57.12  1.67s  My dad just stared at me.
+ 40  58.79  1.61s  That night, Mia got worse.
+ 41  60.40  1.08s  I held her hand.
+ 42  61.48  1.76s  And my hand started glowing.
+ 43  63.24  1.08s  Then Mia sat up.
+ 44  64.31  1.34s  Her cheeks went pink.
+ 45  65.65  1.28s  She said, I'm hungry. //
+ 46  66.94  2.35s  The black pill doesn't make you rich.
+ 47  69.29  1.45s  It makes you a healer.
+ 48  70.74  1.98s  By morning, the whole town knew.
+ 49  72.72  2.25s  There was a line outside our house.
+ 50  74.97  1.61s  Rich people get sick too.
+ 51  76.58  1.40s  And they pay in gold.
+ 52  77.97  2.35s  Now we're the richest family in town.
+ 53  80.33  0.96s  Which is great,
+ 54  81.29  2.34s  except my first patient every morning
+ 55  83.63  1.12s  is Theo's hamster.
+ 56  84.75  1.35s  He has a cold. Again.
+ 57  86.10  2.15s  And Dad? He still keeps saying it.
+ 58  88.25  2.42s  The black pill fixes everything.
