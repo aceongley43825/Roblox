@@ -1,0 +1,9 @@
+node_modules/
+frames/
+snaps/
+audio/
+*.log
+kit.zip
+sheet.jpg
+shots.json
+package-lock.json
