@@ -189,9 +189,9 @@ start(() => {
     act(lt, c) { O.mayor.reset().place(2.5, 1.2, -0.3).setFace('smile'); O.mayorTag.sprite.visible = false; } });
   shot({ line: 'The voice on the phone whispered,', set: office, cam: fr(-1, 3.2, { size: 'close', side: 14 }, 0.5),
     act(lt, c) { O.me.reset().place(-1, 3.2, 0.3).pose({ aR: [150, -35] }).setFace('worried').idle(c.t, 0.4); O.meTag.op(ghost(c.t)).set(ymd(28, 0), '#4dff88'); } });
-  shot({ line: '"Don\'t turn around." ///', set: office, sfx: [['thud', 'around', 1.3]], cam: fr(-1, 3.2, { size: 'close', side: -6, push: 0.08, focus: null }, 0.4),
+  shot({ line: '"Don\'t turn around." ///', set: office, tail: 1.5, sfx: [['thud', 'around', 1.3]], cam: fr(-1, 3.2, { size: 'close', side: -6, push: 0.08, focus: null }, 0.4),
     act(lt, c) {
-      const dark = lt >= c.w('around') + 0.35; office.lamp.intensity = dark ? 0 : 300;
+      const dark = lt >= c.w('around') + 0.5; office.lamp.intensity = dark ? 0 : 300;
       if (dark) { const B = LIGHTS.blackout; for (const l of scene.children) { if (l.isAmbientLight) l.intensity = B.amb; if (l.isHemisphereLight) l.intensity = B.hemi; if (l.isDirectionalLight) { l.intensity = B.sun; l.color.set(B.sunColor); } } scene.background = new THREE.Color(B.bg); }
       O.me.reset().place(-1, 3.2, 0.1).pose({ aR: [150, -35] }).setFace(dark ? 'shock' : 'worried').idle(c.t, dark ? 0 : 0.4); O.meTag.op(ghost(c.t)).set(ymd(28, 0), '#4dff88');
       O.shadow.reset().place(1.3, -0.6, -0.15).setFace('blank'); O.shadow.root.visible = dark || Math.floor(c.t * 15) % 7 === 0;

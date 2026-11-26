@@ -80,7 +80,7 @@ export function finalize(timings) {
     let t = 0.05; const tot = WORDS.reduce((a, w) => a + w.cap.length + 2.2, 0), per = WORDS.length / WPS / tot;
     for (const w of WORDS) { w.s = t; t += (w.cap.length + 2.2) * per; w.e = t; }
   }
-  SHOTS.forEach((s, i) => { s.s = i ? WORDS[s.w0].s : 0; }); SHOTS.forEach((s, i) => { s.e = i + 1 < SHOTS.length ? SHOTS[i + 1].s : WORDS[WORDS.length - 1].e + TAIL; s.d = s.e - s.s; });
+  SHOTS.forEach((s, i) => { s.s = i ? WORDS[s.w0].s : 0; }); SHOTS.forEach((s, i) => { s.e = i + 1 < SHOTS.length ? SHOTS[i + 1].s : WORDS[WORDS.length - 1].e + (s.tail ?? TAIL); s.d = s.e - s.s; });
   // sound cues: shot.sfx = [['sparkle', 'grew'], ['whoosh', 0], ['pop', 'idea', 0.8]]  (name, word of the line or local seconds, gain)
   window.SFXLIST = []; for (const s of SHOTS) for (const [name, at, gain] of s.sfx || []) { let lt = at; if (typeof at === 'string') { lt = 0; for (let i = s.w0; i < s.w1; i++) if (WORDS[i].cap === cap(at)) { lt = WORDS[i].s - s.s; break; } } window.SFXLIST.push([+(s.s + lt).toFixed(3), name, gain || 1]); }
   DURATION = SHOTS[SHOTS.length - 1].e; window.DURATION = DURATION; window.FRAMES = Math.ceil(DURATION * FPS);

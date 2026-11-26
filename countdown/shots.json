@@ -2,247 +2,247 @@
  {
   "i": 0,
   "s": 0,
-  "e": 0.853,
+  "e": 0.95,
   "line": "In this town,"
  },
  {
   "i": 1,
-  "s": 0.853,
-  "e": 3.292,
+  "s": 0.95,
+  "e": 3.24,
   "line": "everyone has a countdown above their head."
  },
  {
   "i": 2,
-  "s": 3.292,
-  "e": 5.286,
+  "s": 3.24,
+  "e": 4.92,
   "line": "Nobody knows where they came from,"
  },
  {
   "i": 3,
-  "s": 5.286,
-  "e": 7.124,
+  "s": 4.92,
+  "e": 6.63,
   "line": "but everyone knows what happens"
  },
  {
   "i": 4,
-  "s": 7.124,
-  "e": 8.518,
+  "s": 6.63,
+  "e": 8.19,
   "line": "when yours reaches zero."
  },
  {
   "i": 5,
-  "s": 8.518,
-  "e": 9.311,
+  "s": 8.19,
+  "e": 9.83,
   "line": "You disappear. //"
  },
  {
   "i": 6,
-  "s": 9.311,
-  "e": 11.198,
+  "s": 9.83,
+  "e": 11.83,
   "line": "My countdown said eighteen years,"
  },
  {
   "i": 7,
-  "s": 11.198,
-  "e": 12.398,
+  "s": 11.83,
+  "e": 13.05,
   "line": "so I wasn't worried."
  },
  {
   "i": 8,
-  "s": 12.398,
-  "e": 13.347,
+  "s": 13.05,
+  "e": 14.04,
   "line": "But one morning,"
  },
  {
   "i": 9,
-  "s": 13.347,
-  "e": 14.828,
+  "s": 14.04,
+  "e": 15.53,
   "line": "something strange happened."
  },
  {
   "i": 10,
-  "s": 14.828,
-  "e": 17.266,
+  "s": 15.53,
+  "e": 18.1,
   "line": "Everyone's countdown went down by one day,"
  },
  {
   "i": 11,
-  "s": 17.266,
-  "e": 17.963,
+  "s": 18.1,
+  "e": 18.83,
   "line": "like always."
  },
  {
   "i": 12,
-  "s": 17.963,
-  "e": 19.018,
+  "s": 18.83,
+  "e": 20.3,
   "line": "But mine went UP"
  },
  {
   "i": 13,
-  "s": 19.018,
-  "e": 19.821,
+  "s": 20.3,
+  "e": 21.64,
   "line": "by ten years."
  },
  {
   "i": 14,
-  "s": 19.821,
-  "e": 21.428,
+  "s": 21.64,
+  "e": 23.04,
   "line": "I thought it was a glitch,"
  },
  {
   "i": 15,
-  "s": 21.428,
-  "e": 22.918,
+  "s": 23.04,
+  "e": 24.51,
   "line": "until I noticed something."
  },
  {
   "i": 16,
-  "s": 22.918,
-  "e": 25.405,
+  "s": 24.51,
+  "e": 26.92,
   "line": "Nobody else could see my countdown anymore."
  },
  {
   "i": 17,
-  "s": 25.405,
-  "e": 27.108,
+  "s": 26.92,
+  "e": 28.24,
   "line": "I ran to the mayor's office"
  },
  {
   "i": 18,
-  "s": 27.108,
-  "e": 28.299,
+  "s": 28.24,
+  "e": 29.7,
   "line": "and demanded answers."
  },
  {
   "i": 19,
-  "s": 28.299,
-  "e": 29.305,
+  "s": 29.7,
+  "e": 30.54,
   "line": "He looked at me"
  },
  {
   "i": 20,
-  "s": 29.305,
-  "e": 30.844,
+  "s": 30.54,
+  "e": 32.16,
   "line": "and went completely silent."
  },
  {
   "i": 21,
-  "s": 30.844,
-  "e": 32.344,
+  "s": 32.16,
+  "e": 33.81,
   "line": "Then he locked the doors."
  },
  {
   "i": 22,
-  "s": 32.344,
-  "e": 33.892,
+  "s": 33.81,
+  "e": 35.02,
   "line": "He told me the countdowns"
  },
  {
   "i": 23,
-  "s": 33.892,
-  "e": 35.982,
+  "s": 35.02,
+  "e": 36.78,
   "line": "weren't counting down to our deaths."
  },
  {
   "i": 24,
-  "s": 35.982,
-  "e": 38.082,
+  "s": 36.78,
+  "e": 38.16,
   "line": "They were counting down to the day"
  },
  {
   "i": 25,
-  "s": 38.082,
-  "e": 39.824,
+  "s": 38.16,
+  "e": 39.9,
   "line": "we were supposed to disappear."
  },
  {
   "i": 26,
-  "s": 39.824,
-  "e": 41.934,
+  "s": 39.9,
+  "e": 41.77,
   "line": "I asked him why mine was going up."
  },
  {
   "i": 27,
-  "s": 41.934,
-  "e": 43.076,
+  "s": 41.77,
+  "e": 42.99,
   "line": "He looked terrified."
  },
  {
   "i": 28,
-  "s": 43.076,
-  "e": 44.121,
+  "s": 42.99,
+  "e": 44.13,
   "line": "Then he whispered,"
  },
  {
   "i": 29,
-  "s": 44.121,
-  "e": 46.454,
+  "s": 44.13,
+  "e": 47.13,
   "line": "\"Because you're not supposed to disappear.\" //"
  },
  {
   "i": 30,
-  "s": 46.454,
-  "e": 48.341,
+  "s": 47.13,
+  "e": 49.15,
   "line": "Suddenly, every countdown in town"
  },
  {
   "i": 31,
-  "s": 48.341,
-  "e": 49.289,
+  "s": 49.15,
+  "e": 50.18,
   "line": "changed to zero."
  },
  {
   "i": 32,
-  "s": 49.289,
-  "e": 50.276,
+  "s": 50.18,
+  "e": 52,
   "line": "Everyone vanished. //"
  },
  {
   "i": 33,
-  "s": 50.276,
-  "e": 51.37,
+  "s": 52,
+  "e": 53.56,
   "line": "Everyone except me,"
  },
  {
   "i": 34,
-  "s": 51.37,
-  "e": 52.221,
+  "s": 53.56,
+  "e": 54.36,
   "line": "and the mayor."
  },
  {
   "i": 35,
-  "s": 52.221,
-  "e": 53.373,
+  "s": 54.36,
+  "e": 55.58,
   "line": "Then my phone rang."
  },
  {
   "i": 36,
-  "s": 53.373,
-  "e": 54.873,
+  "s": 55.58,
+  "e": 56.64,
   "line": "It was the mayor calling."
  },
  {
   "i": 37,
-  "s": 54.873,
-  "e": 57.379,
+  "s": 56.64,
+  "e": 58.52,
   "line": "But he was standing right in front of me,"
  },
  {
   "i": 38,
-  "s": 57.379,
-  "e": 59.683,
+  "s": 58.52,
+  "e": 60.33,
   "line": "and his phone was still in his pocket."
  },
  {
   "i": 39,
-  "s": 59.683,
-  "e": 61.628,
+  "s": 60.33,
+  "e": 61.77,
   "line": "The voice on the phone whispered,"
  },
  {
   "i": 40,
-  "s": 61.628,
-  "e": 63.123,
+  "s": 61.77,
+  "e": 64.527,
   "line": "\"Don't turn around.\" ///"
  }
 ]
