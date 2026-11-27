@@ -1,0 +1,374 @@
+[
+ {
+  "i": 0,
+  "s": 0,
+  "e": 0.735,
+  "line": "In this town,"
+ },
+ {
+  "i": 1,
+  "s": 0.735,
+  "e": 2.313,
+  "line": "every hundred years,"
+ },
+ {
+  "i": 2,
+  "s": 2.313,
+  "e": 3.41,
+  "line": "a giant monster"
+ },
+ {
+  "i": 3,
+  "s": 3.41,
+  "e": 5.488,
+  "line": "rises from beneath the ground."
+ },
+ {
+  "i": 4,
+  "s": 5.488,
+  "e": 6.575,
+  "line": "But what nobody knows"
+ },
+ {
+  "i": 5,
+  "s": 6.575,
+  "e": 7.399,
+  "line": "is that the monster"
+ },
+ {
+  "i": 6,
+  "s": 7.399,
+  "e": 9.427,
+  "line": "isn't hunting people randomly."
+ },
+ {
+  "i": 7,
+  "s": 9.427,
+  "e": 11.634,
+  "line": "It's coming to collect a debt. //"
+ },
+ {
+  "i": 8,
+  "s": 11.634,
+  "e": 12.761,
+  "line": "For generations,"
+ },
+ {
+  "i": 9,
+  "s": 12.761,
+  "e": 14.662,
+  "line": "everyone has followed one rule."
+ },
+ {
+  "i": 10,
+  "s": 14.662,
+  "e": 16.054,
+  "line": "When the sirens go off,"
+ },
+ {
+  "i": 11,
+  "s": 16.054,
+  "e": 16.867,
+  "line": "you have ten minutes"
+ },
+ {
+  "i": 12,
+  "s": 16.867,
+  "e": 18.102,
+  "line": "to get underground."
+ },
+ {
+  "i": 13,
+  "s": 18.102,
+  "e": 19.395,
+  "line": "If you're caught outside,"
+ },
+ {
+  "i": 14,
+  "s": 19.395,
+  "e": 20.503,
+  "line": "you're never seen again."
+ },
+ {
+  "i": 15,
+  "s": 20.503,
+  "e": 22.639,
+  "line": "This year was the hundredth anniversary."
+ },
+ {
+  "i": 16,
+  "s": 22.639,
+  "e": 23.874,
+  "line": "At exactly midnight,"
+ },
+ {
+  "i": 17,
+  "s": 23.874,
+  "e": 25.559,
+  "line": "the sirens started blaring."
+ },
+ {
+  "i": 18,
+  "s": 25.559,
+  "e": 26.902,
+  "line": "I ran into my basement"
+ },
+ {
+  "i": 19,
+  "s": 26.902,
+  "e": 28.176,
+  "line": "and turned on the news."
+ },
+ {
+  "i": 20,
+  "s": 28.176,
+  "e": 29.048,
+  "line": "The mayor appeared"
+ },
+ {
+  "i": 21,
+  "s": 29.048,
+  "e": 30.008,
+  "line": "on every channel."
+ },
+ {
+  "i": 22,
+  "s": 30.008,
+  "e": 30.557,
+  "line": "He said,"
+ },
+ {
+  "i": 23,
+  "s": 30.557,
+  "e": 31.723,
+  "line": "\"Whatever happens tonight,"
+ },
+ {
+  "i": 24,
+  "s": 31.723,
+  "e": 33.115,
+  "line": "do not leave your homes.\""
+ },
+ {
+  "i": 25,
+  "s": 33.115,
+  "e": 34.496,
+  "line": "But then the broadcast"
+ },
+ {
+  "i": 26,
+  "s": 34.496,
+  "e": 35.682,
+  "line": "suddenly changed."
+ },
+ {
+  "i": 27,
+  "s": 35.682,
+  "e": 37.044,
+  "line": "A security camera showed"
+ },
+ {
+  "i": 28,
+  "s": 37.044,
+  "e": 39.573,
+  "line": "the monster walking straight toward city hall."
+ },
+ {
+  "i": 29,
+  "s": 39.573,
+  "e": 40.21,
+  "line": "I watched"
+ },
+ {
+  "i": 30,
+  "s": 40.21,
+  "e": 41.895,
+  "line": "as it smashed through the entrance"
+ },
+ {
+  "i": 31,
+  "s": 41.895,
+  "e": 43.443,
+  "line": "and disappeared underground."
+ },
+ {
+  "i": 32,
+  "s": 43.443,
+  "e": 44.708,
+  "line": "Then my phone rang."
+ },
+ {
+  "i": 33,
+  "s": 44.708,
+  "e": 45.619,
+  "line": "It was the mayor,"
+ },
+ {
+  "i": 34,
+  "s": 45.619,
+  "e": 46.491,
+  "line": "my grandpa."
+ },
+ {
+  "i": 35,
+  "s": 46.491,
+  "e": 47.442,
+  "line": "He was crying."
+ },
+ {
+  "i": 36,
+  "s": 47.442,
+  "e": 48.088,
+  "line": "He told me that"
+ },
+ {
+  "i": 37,
+  "s": 48.088,
+  "e": 49.274,
+  "line": "a hundred years ago,"
+ },
+ {
+  "i": 38,
+  "s": 49.274,
+  "e": 51.489,
+  "line": "the town made a deal with the monster."
+ },
+ {
+  "i": 39,
+  "s": 51.489,
+  "e": 52.577,
+  "line": "Every century,"
+ },
+ {
+  "i": 40,
+  "s": 52.577,
+  "e": 54.801,
+  "line": "the mayor must sacrifice ten people"
+ },
+ {
+  "i": 41,
+  "s": 54.801,
+  "e": 55.85,
+  "line": "to keep it asleep."
+ },
+ {
+  "i": 42,
+  "s": 55.85,
+  "e": 56.673,
+  "line": "But this year,"
+ },
+ {
+  "i": 43,
+  "s": 56.673,
+  "e": 58.691,
+  "line": "he refused to sacrifice anyone."
+ },
+ {
+  "i": 44,
+  "s": 58.691,
+  "e": 60.612,
+  "line": "That's why the monster had returned."
+ },
+ {
+  "i": 45,
+  "s": 60.612,
+  "e": 61.259,
+  "line": "Suddenly,"
+ },
+ {
+  "i": 46,
+  "s": 61.259,
+  "e": 63.621,
+  "line": "another emergency broadcast appeared."
+ },
+ {
+  "i": 47,
+  "s": 63.621,
+  "e": 64.708,
+  "line": "It showed my grandpa"
+ },
+ {
+  "i": 48,
+  "s": 64.708,
+  "e": 66.276,
+  "line": "standing in front of the camera."
+ },
+ {
+  "i": 49,
+  "s": 66.276,
+  "e": 68.51,
+  "line": "He looked directly into it and said,"
+ },
+ {
+  "i": 50,
+  "s": 68.51,
+  "e": 70.47,
+  "line": "\"There's something I never told you."
+ },
+ {
+  "i": 51,
+  "s": 70.47,
+  "e": 71.176,
+  "line": "The monster"
+ },
+ {
+  "i": 52,
+  "s": 71.176,
+  "e": 73.155,
+  "line": "isn't coming to destroy our town.\""
+ },
+ {
+  "i": 53,
+  "s": 73.155,
+  "e": 74.969,
+  "line": "He paused. ///"
+ },
+ {
+  "i": 54,
+  "s": 74.969,
+  "e": 76.194,
+  "line": "\"It's coming to take back"
+ },
+ {
+  "i": 55,
+  "s": 76.194,
+  "e": 78.056,
+  "line": "the ten people we stole from it.\""
+ },
+ {
+  "i": 56,
+  "s": 78.056,
+  "e": 79.153,
+  "line": "Then the camera turned"
+ },
+ {
+  "i": 57,
+  "s": 79.153,
+  "e": 80.457,
+  "line": "to the room behind him."
+ },
+ {
+  "i": 58,
+  "s": 80.457,
+  "e": 82.299,
+  "line": "And standing there were ten people"
+ },
+ {
+  "i": 59,
+  "s": 82.299,
+  "e": 84.837,
+  "line": "who had disappeared exactly a hundred years ago."
+ },
+ {
+  "i": 60,
+  "s": 84.837,
+  "e": 85.885,
+  "line": "They hadn't aged"
+ },
+ {
+  "i": 61,
+  "s": 85.885,
+  "e": 87.286,
+  "line": "a single day. ///"
+ }
+]
