@@ -2,379 +2,379 @@
  {
   "i": 0,
   "s": 0,
-  "e": 0.83,
+  "e": 0.693,
   "line": "In this town,"
  },
  {
   "i": 1,
-  "s": 0.83,
-  "e": 2.568,
+  "s": 0.693,
+  "e": 2.307,
   "line": "everyone has a luck percentage"
  },
  {
   "i": 2,
-  "s": 2.568,
-  "e": 4.015,
+  "s": 2.307,
+  "e": 3.56,
   "line": "floating above their head."
  },
  {
   "i": 3,
-  "s": 4.015,
-  "e": 5.508,
+  "s": 3.56,
+  "e": 4.718,
   "line": "The higher your percentage,"
  },
  {
   "i": 4,
-  "s": 5.508,
-  "e": 6.673,
+  "s": 4.718,
+  "e": 6.019,
   "line": "the luckier you are."
  },
  {
   "i": 5,
-  "s": 6.673,
-  "e": 7.979,
+  "s": 6.019,
+  "e": 7.034,
   "line": "But there's one person"
  },
  {
   "i": 6,
-  "s": 7.979,
-  "e": 10.337,
+  "s": 7.034,
+  "e": 9.816,
   "line": "whose percentage makes absolutely no sense."
  },
  {
   "i": 7,
-  "s": 10.337,
-  "e": 11.793,
+  "s": 9.816,
+  "e": 12.227,
   "line": "The mayor has 1,000% luck."
  },
  {
   "i": 8,
-  "s": 11.793,
-  "e": 13.625,
+  "s": 12.227,
+  "e": 14.031,
   "line": "Nobody knows how that's possible."
  },
  {
   "i": 9,
-  "s": 13.625,
-  "e": 14.208,
+  "s": 14.031,
+  "e": 14.885,
   "line": "Last week,"
  },
  {
   "i": 10,
-  "s": 14.208,
-  "e": 15.081,
+  "s": 14.885,
+  "e": 15.635,
   "line": "my best friend"
  },
  {
   "i": 11,
-  "s": 15.081,
-  "e": 16.199,
+  "s": 15.635,
+  "e": 17.581,
   "line": "went from 87% luck"
  },
  {
   "i": 12,
-  "s": 16.199,
-  "e": 17.12,
+  "s": 17.581,
+  "e": 19.014,
   "line": "to 2% overnight."
  },
  {
   "i": 13,
-  "s": 17.12,
-  "e": 18.332,
+  "s": 19.014,
+  "e": 20.04,
   "line": "And by the afternoon,"
  },
  {
   "i": 14,
-  "s": 18.332,
-  "e": 19.394,
+  "s": 20.04,
+  "e": 21.093,
   "line": "he had disappeared."
  },
  {
   "i": 15,
-  "s": 19.394,
-  "e": 20.455,
+  "s": 21.093,
+  "e": 21.891,
   "line": "I started checking"
  },
  {
   "i": 16,
-  "s": 20.455,
-  "e": 21.648,
+  "s": 21.891,
+  "e": 23.039,
   "line": "everyone's percentages."
  },
  {
   "i": 17,
-  "s": 21.648,
-  "e": 23.001,
+  "s": 23.039,
+  "e": 24.131,
   "line": "People were losing luck"
  },
  {
   "i": 18,
-  "s": 23.001,
-  "e": 23.969,
+  "s": 24.131,
+  "e": 25.261,
   "line": "every single day."
  },
  {
   "i": 19,
-  "s": 23.969,
-  "e": 25.942,
+  "s": 25.261,
+  "e": 27.178,
   "line": "Then I noticed something terrifying."
  },
  {
   "i": 20,
-  "s": 25.942,
-  "e": 27.821,
+  "s": 27.178,
+  "e": 28.991,
   "line": "Every time someone's luck dropped,"
  },
  {
   "i": 21,
-  "s": 27.821,
-  "e": 28.985,
+  "s": 28.991,
+  "e": 29.969,
   "line": "the mayor's went up."
  },
  {
   "i": 22,
-  "s": 28.985,
-  "e": 30.676,
+  "s": 29.969,
+  "e": 31.45,
   "line": "I knew something wasn't right,"
  },
  {
   "i": 23,
-  "s": 30.676,
-  "e": 32.621,
+  "s": 31.45,
+  "e": 32.997,
   "line": "so I went straight to his office."
  },
  {
   "i": 24,
-  "s": 32.621,
-  "e": 33.739,
+  "s": 32.997,
+  "e": 33.966,
   "line": "I demanded to know"
  },
  {
   "i": 25,
-  "s": 33.739,
-  "e": 34.801,
+  "s": 33.966,
+  "e": 34.82,
   "line": "what was happening."
  },
  {
   "i": 26,
-  "s": 34.801,
-  "e": 36.492,
+  "s": 34.82,
+  "e": 36.491,
   "line": "He finally admitted the truth."
  },
  {
   "i": 27,
-  "s": 36.492,
-  "e": 37.074,
+  "s": 36.491,
+  "e": 37.25,
   "line": "Years ago,"
  },
  {
   "i": 28,
-  "s": 37.074,
-  "e": 39.545,
+  "s": 37.25,
+  "e": 39.481,
   "line": "he discovered a way to steal people's luck."
  },
  {
   "i": 29,
-  "s": 39.545,
-  "e": 41.706,
+  "s": 39.481,
+  "e": 41.389,
   "line": "Every time someone's percentage dropped,"
  },
  {
   "i": 30,
-  "s": 41.706,
-  "e": 43.641,
+  "s": 41.389,
+  "e": 43.012,
   "line": "their luck was transferred to him."
  },
  {
   "i": 31,
-  "s": 43.641,
-  "e": 45.492,
+  "s": 43.012,
+  "e": 44.493,
   "line": "He had been doing it for years."
  },
  {
   "i": 32,
-  "s": 45.492,
-  "e": 47.183,
+  "s": 44.493,
+  "e": 46.069,
   "line": "But he needed everyone's luck"
  },
  {
   "i": 33,
-  "s": 47.183,
-  "e": 47.916,
+  "s": 46.069,
+  "e": 47.493,
   "line": "to reach 0%"
  },
  {
   "i": 34,
-  "s": 47.916,
-  "e": 49.128,
+  "s": 47.493,
+  "e": 48.68,
   "line": "to complete his plan."
  },
  {
   "i": 35,
-  "s": 49.128,
-  "e": 50.095,
+  "s": 48.68,
+  "e": 49.667,
   "line": "I looked outside."
  },
  {
   "i": 36,
-  "s": 50.095,
-  "e": 51.927,
+  "s": 49.667,
+  "e": 52.745,
   "line": "Everyone's percentage was now 0%. //"
  },
  {
   "i": 37,
-  "s": 51.927,
-  "e": 53.327,
+  "s": 52.745,
+  "e": 54.254,
   "line": "Suddenly, my phone buzzed."
  },
  {
   "i": 38,
-  "s": 53.327,
-  "e": 54.623,
+  "s": 54.254,
+  "e": 55.488,
   "line": "A notification appeared:"
  },
  {
   "i": 39,
-  "s": 54.623,
-  "e": 55.873,
+  "s": 55.488,
+  "e": 56.817,
   "line": "\"LUCK TRANSFER COMPLETE.\""
  },
  {
   "i": 40,
-  "s": 55.873,
-  "e": 57.188,
+  "s": 56.817,
+  "e": 57.652,
   "line": "I looked at the mayor."
  },
  {
   "i": 41,
-  "s": 57.188,
-  "e": 58.297,
+  "s": 57.652,
+  "e": 58.611,
   "line": "He started laughing."
  },
  {
   "i": 42,
-  "s": 58.297,
-  "e": 60.1,
+  "s": 58.611,
+  "e": 60.168,
   "line": "I asked him what was so funny."
  },
  {
   "i": 43,
-  "s": 60.1,
-  "e": 60.589,
+  "s": 60.168,
+  "e": 60.681,
   "line": "He said,"
  },
  {
   "i": 44,
-  "s": 60.589,
-  "e": 62.909,
+  "s": 60.681,
+  "e": 62.465,
   "line": "\"You actually thought I was stealing luck"
  },
  {
   "i": 45,
-  "s": 62.909,
-  "e": 63.539,
+  "s": 62.465,
+  "e": 63.206,
   "line": "for myself?\""
  },
  {
   "i": 46,
-  "s": 63.539,
-  "e": 65.803,
+  "s": 63.206,
+  "e": 65.645,
   "line": "Suddenly, the sky turned completely black."
  },
  {
   "i": 47,
-  "s": 65.803,
-  "e": 67.344,
+  "s": 65.645,
+  "e": 67.212,
   "line": "A giant percentage appeared"
  },
  {
   "i": 48,
-  "s": 67.344,
-  "e": 68.311,
+  "s": 67.212,
+  "e": 68.218,
   "line": "above the clouds."
  },
  {
   "i": 49,
-  "s": 68.311,
-  "e": 68.8,
+  "s": 68.218,
+  "e": 70.498,
   "line": "0% LUCK. //"
  },
  {
   "i": 50,
-  "s": 68.8,
-  "e": 70.303,
+  "s": 70.498,
+  "e": 71.903,
   "line": "The mayor smiled and said:"
  },
  {
   "i": 51,
-  "s": 70.303,
-  "e": 71.9,
+  "s": 71.903,
+  "e": 73.318,
   "line": "\"I wasn't stealing your luck"
  },
  {
   "i": 52,
-  "s": 71.9,
-  "e": 72.774,
+  "s": 73.318,
+  "e": 74.504,
   "line": "to save myself...\""
  },
  {
   "i": 53,
-  "s": 72.774,
-  "e": 74.418,
+  "s": 74.504,
+  "e": 75.805,
   "line": "\"I was collecting enough luck"
  },
  {
   "i": 54,
-  "s": 74.418,
-  "e": 75.245,
+  "s": 75.805,
+  "e": 76.555,
   "line": "to protect us"
  },
  {
   "i": 55,
-  "s": 75.245,
-  "e": 76.306,
+  "s": 76.555,
+  "e": 77.381,
   "line": "from what's coming.\""
  },
  {
   "i": 56,
-  "s": 76.306,
-  "e": 77.762,
+  "s": 77.381,
+  "e": 78.7,
   "line": "Then every phone in town"
  },
  {
   "i": 57,
-  "s": 77.762,
-  "e": 79.209,
+  "s": 78.7,
+  "e": 80.342,
   "line": "received the same message:"
  },
  {
   "i": 58,
-  "s": 79.209,
-  "e": 80.13,
+  "s": 80.342,
+  "e": 81.273,
   "line": "\"THE UNLUCKY ONE"
  },
  {
   "i": 59,
-  "s": 80.13,
-  "e": 80.806,
+  "s": 81.273,
+  "e": 83.165,
   "line": "HAS ARRIVED.\" ///"
  },
  {
   "i": 60,
-  "s": 80.806,
-  "e": 82.798,
+  "s": 83.165,
+  "e": 84.94,
   "line": "And for the first time in history..."
  },
  {
   "i": 61,
-  "s": 82.798,
-  "e": 84.047,
+  "s": 84.94,
+  "e": 85.975,
   "line": "The mayor's percentage"
  },
  {
   "i": 62,
-  "s": 84.047,
-  "e": 85.418,
+  "s": 85.975,
+  "e": 87.555,
   "line": "dropped to zero."
  }
 ]
