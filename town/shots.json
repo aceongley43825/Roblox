@@ -2,253 +2,253 @@
  {
   "i": 0,
   "s": 0,
-  "e": 1.02,
+  "e": 0.93,
   "line": "In this town,"
  },
  {
   "i": 1,
-  "s": 1.02,
-  "e": 2.92,
+  "s": 0.93,
+  "e": 2.62,
   "line": "everybody walks backwards."
  },
  {
   "i": 2,
-  "s": 2.92,
-  "e": 4.37,
+  "s": 2.62,
+  "e": 3.98,
   "line": "Nobody remembers why."
  },
  {
   "i": 3,
-  "s": 4.37,
-  "e": 5.58,
+  "s": 3.98,
+  "e": 5.24,
   "line": "My mom walks backwards"
  },
  {
   "i": 4,
-  "s": 5.58,
-  "e": 6.96,
+  "s": 5.24,
+  "e": 6.3,
   "line": "to the grocery store."
  },
  {
   "i": 5,
-  "s": 6.96,
-  "e": 8.34,
+  "s": 6.3,
+  "e": 7.79,
   "line": "The mailman walks backwards"
  },
  {
   "i": 6,
-  "s": 8.34,
-  "e": 9.95,
+  "s": 7.79,
+  "e": 9.2,
   "line": "with a bag full of letters."
  },
  {
   "i": 7,
-  "s": 9.95,
-  "e": 11.71,
+  "s": 9.2,
+  "e": 11.07,
   "line": "Even our dog walks backwards,"
  },
  {
   "i": 8,
-  "s": 11.71,
-  "e": 13.43,
+  "s": 11.07,
+  "e": 12.82,
   "line": "and he is not happy about it."
  },
  {
   "i": 9,
-  "s": 13.43,
-  "e": 14.51,
+  "s": 12.82,
+  "e": 13.47,
   "line": "Except me."
  },
  {
   "i": 10,
-  "s": 14.51,
-  "e": 15.57,
+  "s": 13.47,
+  "e": 14.58,
   "line": "I walk forwards."
  },
  {
   "i": 11,
-  "s": 15.57,
-  "e": 17.25,
+  "s": 14.58,
+  "e": 16.04,
   "line": "Everybody thinks I'm weird."
  },
  {
   "i": 12,
-  "s": 17.25,
-  "e": 17.92,
+  "s": 16.04,
+  "e": 16.62,
   "line": "At school,"
  },
  {
   "i": 13,
-  "s": 17.92,
-  "e": 19.15,
+  "s": 16.62,
+  "e": 18.06,
   "line": "they call me Front Face,"
  },
  {
   "i": 14,
-  "s": 19.15,
-  "e": 20.78,
+  "s": 18.06,
+  "e": 19.74,
   "line": "and nobody wants to sit next to me"
  },
  {
   "i": 15,
-  "s": 20.78,
-  "e": 21.52,
+  "s": 19.74,
+  "e": 20.41,
   "line": "at lunch."
  },
  {
   "i": 16,
-  "s": 21.52,
-  "e": 23.98,
+  "s": 20.41,
+  "e": 22.51,
   "line": "Then came the big summer parade."
  },
  {
   "i": 17,
-  "s": 23.98,
-  "e": 25.86,
+  "s": 22.51,
+  "e": 24.52,
   "line": "The whole town was marching backwards"
  },
  {
   "i": 18,
-  "s": 25.86,
-  "e": 26.82,
+  "s": 24.52,
+  "e": 25.63,
   "line": "down Main Street,"
  },
  {
   "i": 19,
-  "s": 26.82,
-  "e": 27.89,
+  "s": 25.63,
+  "e": 26.94,
   "line": "with the mayor in front,"
  },
  {
   "i": 20,
-  "s": 27.89,
-  "e": 29.89,
+  "s": 26.94,
+  "e": 28.94,
   "line": "smiling and waving at nobody."
  },
  {
   "i": 21,
-  "s": 29.89,
-  "e": 31.32,
+  "s": 28.94,
+  "e": 30.05,
   "line": "But I was the only one"
  },
  {
   "i": 22,
-  "s": 31.32,
-  "e": 32.66,
+  "s": 30.05,
+  "e": 31.34,
   "line": "facing the right way,"
  },
  {
   "i": 23,
-  "s": 32.66,
-  "e": 34.49,
+  "s": 31.34,
+  "e": 33.4,
   "line": "so I was the only one who saw it."
  },
  {
   "i": 24,
-  "s": 34.49,
-  "e": 36.55,
+  "s": 33.4,
+  "e": 35.29,
   "line": "A giant hole, //"
  },
  {
   "i": 25,
-  "s": 36.55,
-  "e": 37.97,
+  "s": 35.29,
+  "e": 36.91,
   "line": "right in the middle of the road."
  },
  {
   "i": 26,
-  "s": 37.97,
-  "e": 38.99,
+  "s": 36.91,
+  "e": 38,
   "line": "Nobody else could see it,"
  },
  {
   "i": 27,
-  "s": 38.99,
-  "e": 39.86,
+  "s": 38,
+  "e": 38.94,
   "line": "because they were walking"
  },
  {
   "i": 28,
-  "s": 39.86,
-  "e": 41.58,
+  "s": 38.94,
+  "e": 40.8,
   "line": "straight towards it backwards."
  },
  {
   "i": 29,
-  "s": 41.58,
-  "e": 43.13,
+  "s": 40.8,
+  "e": 42.27,
   "line": "So I ran ahead of the parade"
  },
  {
   "i": 30,
-  "s": 43.13,
-  "e": 44.41,
+  "s": 42.27,
+  "e": 43.58,
   "line": "and yelled STOP!"
  },
  {
   "i": 31,
-  "s": 44.41,
-  "e": 46.09,
+  "s": 43.58,
+  "e": 45.29,
   "line": "The whole town froze."
  },
  {
   "i": 32,
-  "s": 46.09,
-  "e": 47.02,
+  "s": 45.29,
+  "e": 46.21,
   "line": "They turned around,"
  },
  {
   "i": 33,
-  "s": 47.02,
-  "e": 47.87,
+  "s": 46.21,
+  "e": 47.31,
   "line": "and saw the hole"
  },
  {
   "i": 34,
-  "s": 47.87,
-  "e": 48.99,
+  "s": 47.31,
+  "e": 48.45,
   "line": "for the first time."
  },
  {
   "i": 35,
-  "s": 48.99,
-  "e": 50.58,
+  "s": 48.45,
+  "e": 50.1,
   "line": "The mayor was one step away"
  },
  {
   "i": 36,
-  "s": 50.58,
-  "e": 51.6,
+  "s": 50.1,
+  "e": 51.12,
   "line": "from falling in."
  },
  {
   "i": 37,
-  "s": 51.6,
-  "e": 52.45,
+  "s": 51.12,
+  "e": 52.08,
   "line": "The next morning,"
  },
  {
   "i": 38,
-  "s": 52.45,
-  "e": 53.89,
+  "s": 52.08,
+  "e": 53.54,
   "line": "he gave me a gold medal,"
  },
  {
   "i": 39,
-  "s": 53.89,
-  "e": 56.13,
+  "s": 53.54,
+  "e": 56.09,
   "line": "and now everybody in town walks forwards."
  },
  {
   "i": 40,
-  "s": 56.13,
-  "e": 57.07,
+  "s": 56.09,
+  "e": 56.77,
   "line": "Everybody,"
  },
  {
   "i": 41,
-  "s": 57.07,
-  "e": 58.417,
+  "s": 56.77,
+  "e": 58.18,
   "line": "except the dog. ///"
  }
 ]
