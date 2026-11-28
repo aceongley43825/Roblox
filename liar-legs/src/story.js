@@ -178,6 +178,6 @@ start(() => {
   shot({ line: 'And her legs grew so long,', set: kitM, sfx: [['rise', 'grew', 1], ['sparkle', 'grew', 0.7], ['thud', 'long', 0.8]], cam: { pos: [-3.4, 3.5, 19], look: [-3.4, 6.5, 4.6], fov: 60, blur: 0, push: 0.03 },
     act(lt, c) { const tg = c.w('grew'), k = E.out(remap(lt, tg, c.d)); KM.ruby.reset().place(-3.4, 4.6, 0).idle(c.t); legs(KM.ruby, lerp(1, 7.5, k)); KM.ruby.setFace(lt < tg ? 'winkjoy' : 'scream'); KM.sp.at(lt - tg, KM.ruby.root.position.toArray(), 1.4); KM.mom.reset().place(-7.5, 3.5, 0.6).pose({ head: [-30, 0, 0] }).setFace('shock'); } });
   shot({ line: 'she stepped right over the house. ///', set: homeD, sfx: [['thud', 'stepped', 0.9], ['thud', 'house', 0.9]], cam: { pos: [30, 5, 26], look: [0, 13, -6], fov: 62, blur: 0, push: 0.04 },
-    act(lt, c) { const ts = c.w('stepped'), k = E.inOut(remap(lt, ts - 0.2, c.w('house') + 0.5)), a = Math.sin(k * Math.PI) * 0.62;
+    act(lt, c) { const ts = c.w('stepped'), k = 0.72 * E.out(remap(lt, ts - 0.2, c.d - 0.2)), a = Math.sin(k * Math.PI) * 0.62;
       HD.ruby.reset().place(0, lerp(-24, 12, k), 0).setFace(k < 0.95 ? 'laugh' : 'winkjoy'); HD.ruby.legL.rotation.x = -a; HD.ruby.legR.rotation.x = a; HD.ruby.armL.rotation.x = a * 0.8; HD.ruby.armR.rotation.x = -a * 0.8; legs(HD.ruby, 15); HD.ruby.hip.position.y -= (1 - Math.cos(a)) * 30 * 0.9; } });
 });
